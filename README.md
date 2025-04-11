@@ -1,5 +1,7 @@
 # Desarrollo Guiado por Pruebas - Caso práctico
 
+## **Desarrollado por: David Medina y Andrea Sosa**
+
 #### CLASES DE EQUIVALENCIA 
 
 ### CREAR UN PROYECTO CON MAVEN
