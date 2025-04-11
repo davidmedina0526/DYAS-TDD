@@ -1,1 +1,5 @@
+edu\unisabana\dyas\tdd\registry\Gender.class
+edu\unisabana\dyas\tdd\registry\Registry.class
 edu\unisabana\dyas\tdd\AppTest.class
+edu\unisabana\dyas\tdd\registry\RegisterResult.class
+edu\unisabana\dyas\tdd\registry\Person.class
