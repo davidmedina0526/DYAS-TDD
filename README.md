@@ -1,6 +1,6 @@
 # Desarrollo Guiado por Pruebas - Caso práctico
 
-## **Desarrollado por: David Medina y Andrea Sosa**
+## **Desarrollado por: David Medina ,Andrea Sosa y Samuel Rodriguez**
 
 #### CLASES DE EQUIVALENCIA 
 
